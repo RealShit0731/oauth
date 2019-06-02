@@ -15,7 +15,7 @@
 ### 请求链接
 
 **获取授权码**
-` http://localhost:8080/oauth/authorize?client_id=client&response_type=code`
+` http://localhost:8080/oauth/authorize?client_id=client&response_type=code `
 > 第一次访问会跳转到登录页面
   
 ![GitHub set up](https://www.funtl.com/assets1/Lusifer_20190401195014.png )[spring security 默认登陆页](url)
